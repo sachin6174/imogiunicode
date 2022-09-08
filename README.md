@@ -1,2 +1,3 @@
 # Link:
-imogi-unicode.netlify.app
+- https://imogi-unicode.netlify.app
+- https://sachinkumar.software/imogiunicode/
